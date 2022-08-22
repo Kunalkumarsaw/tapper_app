@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Real Time Experiment</string>
+    <string name="start_typing">Click to begin</string>
+    <string name="type_the_letter">Type the letter :</string>
+    <string name="device_name">Device Name :</string>
+    <string name="device_data">Device Data :</string>
+    <string name="fingers">Fingers :</string>
+    <string name="you_typed">You Typed</string>
+    <string name="stop_typing">Pause typing</string>
+    <string name="reset">Reset</string>
+</resources>
